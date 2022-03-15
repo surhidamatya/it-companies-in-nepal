@@ -40,3 +40,15 @@ Name | Location | Contact
 [Treeleaf Technologies](https://treeleaf.ai) | Kathmandu | <a href="https://www.linkedin.com/company/treeleafai/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a> 
 [Wiseyak Inc.](http://wiseyak.com/) | Kathmandu | <a href="https://www.linkedin.com/company/wiseyakinc/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a> 
 [Vairav Technology](https://vairav.net/) | Baluwatar, Kathmandu | <a href="https://www.linkedin.com/company/vairavtechnology/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a> 
+
+
+## Resources
+
+- [Nepali Companies on GitHub](https://github.com/developers-nepal/companies)
+- [Machine Learning Companies in Nepal](https://github.com/amitness/ml-companies-in-nepal)
+
+## License
+
+[MIT](LICENSE)
+
+---
