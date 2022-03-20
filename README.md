@@ -47,8 +47,4 @@ Name | Location | Contact
 - [Nepali Companies on GitHub](https://github.com/developers-nepal/companies)
 - [Machine Learning Companies in Nepal](https://github.com/amitness/ml-companies-in-nepal)
 
-## License
-
-[MIT](LICENSE)
-
 ---
